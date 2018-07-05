@@ -1,9 +1,0 @@
-- You can train the Word2Vec model using our text corpus, that you can find here :
-https://drive.google.com/open?id=1yDxUsn9FqM7OQqubuoaabO9BWDszcqpS
-
-- Or you can use our trained model, where you can find our two Word2Vec vectors here :
-   - wordsList.npy : a vector of words, download link is here :
-      https://drive.google.com/open?id=1q5NUYRzIF66PVPIeFDXnewJIKkKjnvVO
-      
-   - wordVectors.npy : the represenation of words, download link is here :
-https://drive.google.com/open?id=14wV3Hk7Jg6CzLpKMbayPBV10TiQMQnha
