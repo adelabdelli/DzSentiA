@@ -22,7 +22,7 @@ def testModel(tweet):
     print(predict(tweet, classifier))
 
 def main():
-    tweet = "بوتفليقة روعة اعجبني بزاف"
+    tweet = "هاذ الكتاب روعة اعجبني بزاف"
     testModel(tweet)
 
 if __name__ == "__main__":
