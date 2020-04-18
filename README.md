@@ -15,8 +15,9 @@ For the library and the environment that we used (Requirements) :
 
 
 If you used any of our resources, please refer our work using this bibtex :
-@{
+@INPROCEEDINGS{9068897, author={A. {Abdelli} and F. {Guerrouf} and O. {Tibermacine} and B. {Abdelli}}, booktitle={2019 International Conference on Intelligent Systems and Advanced Computing Sciences (ISACS)}, title={Sentiment Analysis of Arabic Algerian Dialect Using a Supervised Method}, year={2019}, volume={}, number={}, pages={1-6},}
 
+Or plain text:
+A. Abdelli, F. Guerrouf, O. Tibermacine and B. Abdelli, "Sentiment Analysis of Arabic Algerian Dialect Using a Supervised Method," 2019 International Conference on Intelligent Systems and Advanced Computing Sciences (ISACS), Taza, Morocco, 2019, pp. 1-6.
 
-}
 
